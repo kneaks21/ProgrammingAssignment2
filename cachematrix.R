@@ -1,4 +1,4 @@
-##Programming in R: Week 2 Assignment
+##Programming in R: Week 3 Assignment
 ##Nicole Bobbitt 2016-05-01
 
 ############################   makeCacheMatrix  ###############################
